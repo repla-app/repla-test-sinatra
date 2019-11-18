@@ -4,7 +4,7 @@
 
 By adding Sinatra to the `Gemfile` and running:
 
-	bundle install --standalone
+	bundle install --standalone --path vendor/bundle
 
 The `git` directory in the bundle directory was also deleted at:
 
